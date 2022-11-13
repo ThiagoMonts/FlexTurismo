@@ -240,6 +240,12 @@ footer{
     align-items: center;
 }
 
+footer a {
+    color: white;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
 footer .footer{
     justify-content: space-between;
     color: #fff;
